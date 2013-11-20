@@ -85,4 +85,10 @@ public class Cliente implements Runnable {
 		hilo.start();
 	}
 
+	public void elegirConcierto(){
+		
+	}
+	public void elegirTiempo(){
+		
+	}
 }

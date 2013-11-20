@@ -64,5 +64,14 @@ public class Servidor implements Runnable {
 			}
 		}
 	}
+	public void revisarCupo() {
+		
+	}
+	public void avisoFinal() {
+		
+	}
+	public void iniciarConcierto() {
+		
+	}
 
 }
